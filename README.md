@@ -1,0 +1,1 @@
+The Odin Project goes through the basic building blocks of HTML and web development. So far we have learned how to use the Linux operating system, the terminal program, and the Visual Studio Code program. The next challenge is learning how to utilize all the lessons so far in a concise manner in HTML.
